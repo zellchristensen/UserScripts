@@ -2,7 +2,7 @@
 // @match       https://mail.proton.me/*
 // @name        ProtonMail Full Subject Line
 // @version     0.1
-// @namespace   
+// @namespace   https://raw.githubusercontent.com/zellchristensen/UserScripts/main/ProtonmailFullSubject.js
 // ==/UserScript==
 
 if(window.matchMedia('(hover: none)').matches)
