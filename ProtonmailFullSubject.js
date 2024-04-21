@@ -1,7 +1,7 @@
 // ==UserScript==
 // @match       https://mail.proton.me/*
 // @name        ProtonMail Full Subject Line
-// @version     0.1
+// @version     0.2
 // @namespace   https://raw.githubusercontent.com/zellchristensen/UserScripts/main/ProtonmailFullSubject.js
 // ==/UserScript==
 
