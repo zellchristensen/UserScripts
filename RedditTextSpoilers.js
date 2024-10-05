@@ -2,6 +2,7 @@
 // @name         Auto Click Shreddit Spoilers (Reddit Text Spoiler Clicker)
 // @namespace    https://raw.githubusercontent.com/zellchristensen/UserScripts/main/RedditTextSpoilers.js
 // @downloadURL  https://raw.githubusercontent.com/zellchristensen/UserScripts/main/RedditTextSpoilers.js
+// @updateURL    https://raw.githubusercontent.com/zellchristensen/UserScripts/main/RedditTextSpoilers.js
 // @version      2024-10-05_1.0
 // @description  Automatically clicks all <shreddit-spoiler> elements on the page after it loads.
 // @author       Zell
