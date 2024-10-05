@@ -7,6 +7,7 @@
 // @author       Zell
 // @match        https://www.reddit.com/*
 // @icon         https://www.redditstatic.com/shreddit/assets/favicon/192x192.png
+// @run-at       document-end
 // @grant        none
 // ==/UserScript==
 
